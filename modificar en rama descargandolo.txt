@@ -1,0 +1,11 @@
+Git init: carpeta vacia
+Git remote add origin enlace
+Git Pull origin master
+Creas rama github
+Git Branch rama
+Git checkout rama
+Git Pull origin rama
+Modificas vsc
+Git add .
+Git Commit -m “correccion”
+Git Push origin rama

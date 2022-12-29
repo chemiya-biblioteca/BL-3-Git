@@ -1,0 +1,7 @@
+Creas issue
+Creas rama de donde esta el código en github
+Git Branch nombre rama
+Git checkout nombrerama
+Git pull origin nombrerama
+(modificas vsc)add,commit, git push origin nombrerama
+Hacer pull request github a la rama que quieras desde la rama modificada y merge

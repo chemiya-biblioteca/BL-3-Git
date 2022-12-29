@@ -1,0 +1,6 @@
+Creo carpeta en mi pc
+Git init: carpeta vacia
+Git remote add origin enlace
+Git pull origin master
+Modifico
+Git push origin master

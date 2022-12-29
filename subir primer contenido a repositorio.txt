@@ -1,0 +1,8 @@
+Git init
+Git add .
+Git commit –m “primero”
+Git remote add origin enlace
+git push -u origin master
+(modifico en git)Git pull origin master
+(modifico en vsc) add, commit,push
+
