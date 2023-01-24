@@ -1,0 +1,6 @@
+adminsitrador de credenciales
+credenciales de windows
+buscas la de github
+la borras
+git config --global user.name "usuario"
+git config --global user.email "email"
